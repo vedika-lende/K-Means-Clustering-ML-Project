@@ -1,4 +1,4 @@
-````md
+
 # K Means Clustering Using Python
 
 ## Project Overview
@@ -75,4 +75,4 @@ Through this project, I learned:
 - Apply clustering on larger datasets
 - Compare K Means with other clustering algorithms
 
-````
+
